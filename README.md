@@ -59,3 +59,6 @@ MIT
 
 <!-- handsoff-issue-1188 -->
 - #1188: [pet-transfer-adoption] Prevent adoption of nonexistent or inactive pets
+
+<!-- handsoff-issue-1197 -->
+- #1197: [stellar-contracts] Add emergency-override least-privilege scopes
