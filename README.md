@@ -54,3 +54,8 @@ cargo test
 ## License
 
 MIT
+
+## Handsoff notes
+
+<!-- handsoff-issue-1188 -->
+- #1188: [pet-transfer-adoption] Prevent adoption of nonexistent or inactive pets
