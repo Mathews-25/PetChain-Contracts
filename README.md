@@ -62,3 +62,6 @@ MIT
 
 <!-- handsoff-issue-1197 -->
 - #1197: [stellar-contracts] Add emergency-override least-privilege scopes
+
+<!-- handsoff-issue-1200 -->
+- #1200: [stellar-contracts] Minimize public emergency-profile data
